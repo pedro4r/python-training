@@ -24,7 +24,7 @@ for chave, valor in pessoa.items():
 # range(): intervalo numérico
 # [0,1,2,3,4]
 print("\n Utilizando a função range()")
-for numero in range(5):
+for numero in range(3):
   print("Numero:", numero)
 
 print("\n Utilizando a função range() com len()")
